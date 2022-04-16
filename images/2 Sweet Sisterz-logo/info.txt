@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Variane Script
+font link: https://www.behance.net/gallery/26855635/Variane-Script-Font
+font author: Boy Moch Tomi
+font author site: https://www.behance.net/workinsstudio
+
+
+icon designer: praveen patchu
+icon designer link: /praveensidyal14
+        
+{"bg":"#F7F2D9","icon-gradient-0":"#C5194B","icon-gradient-1":"#DFDF4F","font":"#3E261A","slogan":"#523a2e"}
+      
