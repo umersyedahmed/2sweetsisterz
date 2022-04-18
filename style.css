@@ -16,7 +16,7 @@ header {
   flex-direction: column;
 }
 header div {
-  margin-top: 75px;
+  padding-top: 75px;
 }
 
 header section {
